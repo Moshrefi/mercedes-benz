@@ -1,4 +1,6 @@
 # mercedes-benz
+This is a sample website for introduce Mercedes-Benz. I used Vue.js to implement this project.
+
 
 ## Project setup
 ```
